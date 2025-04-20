@@ -1,3 +1,4 @@
+# programa múmero crescente
 n1= int(input('número 1:'))
 n2= int(input('número 2:'))
 n3= int(input('número 3:'))
