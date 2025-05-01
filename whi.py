@@ -24,7 +24,7 @@ if regiao == 'Sudeste':
     - Minas Gerais
     - Rio de Janeiro
     - São Paulo''')
-f regiao == 'Norte':
+if regiao == 'Norte':
     print ('''Os estados da região norte são:
     - Acre
     - Amapá
