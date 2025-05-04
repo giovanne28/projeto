@@ -39,3 +39,4 @@ if regiao == 'Centro-Oeste':
     - Goiás
     - Mato Grosso
     - Mato Grosso do Sul''')
+print ('Obrigado')
