@@ -15,3 +15,9 @@ elif n3 <= n1 <= n2:
 else:
    menor, meio, maior = n3, n2, n1
    print('ordem crescente dos números:', menor, meio, maior)
+
+
+# programa tabuada
+n = int(input('número:'))
+for i in range(1,11):
+    print (f'{n} X {i} = {n * i}')
