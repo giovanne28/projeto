@@ -2,14 +2,18 @@ body {
     background-color: #222;
     color: white;
     font-family: sans-serif;
-    text-align: center;
     margin-top: 50px;
 }
-.lista-meses {
-    text-align: left;
-    margin-left: 20px;
-    display: inline-block;
+
+.centralizado {
+    text-align: center;
 }
-h1 {
-    color: #00ffff;
+
+.lista-meses {
+    max-width: 200px;
+    margin: 20px auto;
+    text-align: left;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 8px;
 }
